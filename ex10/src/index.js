@@ -8,4 +8,4 @@ function main(numOne, numTwo) {
  console.log(main(25, 8));
  console.log(main(425,10));
  
- module.experts = main();
+ module.exports = main();
